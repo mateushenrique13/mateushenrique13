@@ -1,56 +1,65 @@
-## Olá, meu nome é Mateus Henrique e sou um entusiasta de tecnologia. Tenho uma verdadeira paixão por explorar e entender as inovações que moldam o nosso mundo digital
+<h2 align="left">Sobre mim</h2>
 
-### Atualmente, sou estudante do ensino médio na ETEC Alfredo de Barros Santos, em Guaratinguetá, onde tenho a oportunidade de me aprofundar nas áreas de Desenvolvimento de Sistemas e Informática. Tenho adquirido conhecimentos valiosos sobre programação, análise de sistemas e novas tecnologias, o que tem ampliado minha visão sobre o vasto campo da tecnologia. Estou sempre em busca de aprender mais, desenvolver novas habilidades e aplicar meu conhecimento em projetos práticos, visando uma carreira sólida e inovadora na área. 
+###
 
+<h5 align="left">- Atualmente estudante do ensino médio na ETEC Alfredo de Barros Santos, em Guaratinguetá.<br>- Áreas de interesse e foco: Desenvolvimento de Sistemas e Informática.<br>- Conhecimentos adquiridos: Programação, análise de sistemas e novas tecnologias.<br>- Objetivo: Ampliar minha visão sobre o campo da tecnologia e aprofundar o aprendizado em áreas inovadoras.<br>- Perfil de aprendizado: Sempre em busca de novos conhecimentos e desafios.<br>- Compromisso com a prática: Foco em aplicar o que aprendo em projetos práticos e reais.<br>- Objetivo de carreira: Construir uma trajetória sólida e inovadora na área de tecnologia.</h5>
 
-<div style="display: inline_block">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mateushenrique13&show_icons=true&theme=highcontrast" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushenrique13&layout=compact&theme=highcontrast" />
-</a>
+###
+
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
 </div>
 
-## Redes sociais
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus09_16/)
-<!--[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) -->
+###
 
-## Tecnologias que eu uso e estou aprendendo 
+<h2 align="left">Estatísticas</h2>
 
+###
 
-<div style="display: inline_block"><br/>
-    <img align="center" height="30" width="40" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img align="center" height="30" width="40" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img align="center" height="30" width="40" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" height="30" width="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img align="center" height="30" width="40" alt="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-    <img align="center" height="30" width="40" alt="c++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <img align="center" height="30" width="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img align="center" height="30" width="40" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img align="center" height="30" width="40" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-    <img align="center" height="30" width="40" alt="node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-    <img align="center" height="30" width="40" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-    <img align="center" height="30" width="40" alt="reactnative" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" />
-    <img align="center" height="30" width="40" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img align="center" height="30" width="40" alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mateushenrique13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateushenrique13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateushenrique13&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+###
 
+<h2 align="left">Redes Sociais</h2>
 
+###
 
+<div align="left">
+  <a href="https://www.instagram.com/mateus09_16/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
+###
 
+<img src="https://raw.githubusercontent.com/mateushenrique13/mateushenrique13/output/snake.svg" alt="Snake animation" />
 
-
-
-
-
-
-
-
-
-
-
+###
