@@ -58,8 +58,8 @@
   </a>
 </div>
 
-###
+<!--###
 
 <img src="https://raw.githubusercontent.com/mateushenrique13/mateushenrique13/output/snake.svg" alt="Snake animation" />
 
-###
+###-->
