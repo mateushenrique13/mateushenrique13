@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">- Atualmente estudante do ensino médio na ETEC Alfredo de Barros Santos, em Guaratinguetá.<br>- Áreas de interesse e foco: Desenvolvimento de Sistemas e Informática.<br>- Conhecimentos adquiridos: Programação, análise de sistemas e novas tecnologias.<br>- Objetivo: Ampliar minha visão sobre o campo da tecnologia e aprofundar o aprendizado em áreas inovadoras.<br>- Perfil de aprendizado: Sempre em busca de novos conhecimentos e desafios.<br>- Compromisso com a prática: Foco em aplicar o que aprendo em projetos práticos e reais.<br>- Objetivo de carreira: Construir uma trajetória sólida e inovadora na área de tecnologia.</h5>
+<h5 align="left">- Atualmente Técnico em Informática e Desenvolvimento de Sistemas pela ETEC Alfredo de Barros Santos, em Guaratinguetá.<br>- Áreas de interesse e foco: Desenvolvimento de Sistemas e Informática.<br>- Conhecimentos adquiridos: Programação, análise de sistemas e novas tecnologias.<br>- Objetivo: Ampliar minha visão sobre o campo da tecnologia e aprofundar o aprendizado em áreas inovadoras.<br>- Perfil de aprendizado: Sempre em busca de novos conhecimentos e desafios.<br>- Compromisso com a prática: Foco em aplicar o que aprendo em projetos práticos e reais.<br>- Objetivo de carreira: Construir uma trajetória sólida e inovadora na área de tecnologia.</h5>
 
 ###
 
